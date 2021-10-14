@@ -10,6 +10,7 @@ Our face mask detector doesn't use any morphed masked images dataset and the mod
 
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
+
 # We got the following accuracy/loss training curve 
 
 ![plot](https://user-images.githubusercontent.com/86012289/137358083-2400e19c-1b1d-420b-962e-c59791bd4c20.png)
